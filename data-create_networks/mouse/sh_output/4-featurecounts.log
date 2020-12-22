@@ -1,0 +1,100 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.1
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 8 BAM files                                      ||
+||                           o DRG_WT_00_Rep1Aligned.out.bam                  ||
+||                           o DRG_WT_00_Rep2Aligned.out.bam                  ||
+||                           o DRG_WT_01_Rep1Aligned.out.bam                  ||
+||                           o DRG_WT_01_Rep2Aligned.out.bam                  ||
+||                           o DRG_WT_03_Rep1Aligned.out.bam                  ||
+||                           o DRG_WT_03_Rep2Aligned.out.bam                  ||
+||                           o DRG_WT_30_Rep1Aligned.out.bam                  ||
+||                           o DRG_WT_30_Rep2Aligned.out.bam                  ||
+||                                                                            ||
+||             Output file : DRG_WT_timecourse.txt                            ||
+||                 Summary : DRG_WT_timecourse.txt.summary                    ||
+||              Annotation : genes.gtf (GTF)                                  ||
+||      Dir for temp files : counts                                           ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : counted                                          ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.gtf ...                                         ||
+||    Features : 325154                                                       ||
+||    Meta-features : 24421                                                   ||
+||    Chromosomes/contigs : 36                                                ||
+||                                                                            ||
+|| Process BAM file DRG_WT_00_Rep1Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 65573369                                             ||
+||    Successfully assigned alignments : 51697296 (78.8%)                     ||
+||    Running time : 1.20 minutes                                             ||
+||                                                                            ||
+|| Process BAM file DRG_WT_00_Rep2Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 75048611                                             ||
+||    Successfully assigned alignments : 59794589 (79.7%)                     ||
+||    Running time : 1.39 minutes                                             ||
+||                                                                            ||
+|| Process BAM file DRG_WT_01_Rep1Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 57553445                                             ||
+||    Successfully assigned alignments : 44986472 (78.2%)                     ||
+||    Running time : 1.09 minutes                                             ||
+||                                                                            ||
+|| Process BAM file DRG_WT_01_Rep2Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 53896613                                             ||
+||    Successfully assigned alignments : 43040573 (79.9%)                     ||
+||    Running time : 1.04 minutes                                             ||
+||                                                                            ||
+|| Process BAM file DRG_WT_03_Rep1Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 79642227                                             ||
+||    Successfully assigned alignments : 64072357 (80.5%)                     ||
+||    Running time : 1.54 minutes                                             ||
+||                                                                            ||
+|| Process BAM file DRG_WT_03_Rep2Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 90651363                                             ||
+||    Successfully assigned alignments : 71768872 (79.2%)                     ||
+||    Running time : 1.81 minutes                                             ||
+||                                                                            ||
+|| Process BAM file DRG_WT_30_Rep1Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 72915563                                             ||
+||    Successfully assigned alignments : 57145276 (78.4%)                     ||
+||    Running time : 1.53 minutes                                             ||
+||                                                                            ||
+|| Process BAM file DRG_WT_30_Rep2Aligned.out.bam...                          ||
+||    Paired-end reads are included.                                          ||
+||    Total alignments : 87167210                                             ||
+||    Successfully assigned alignments : 68161729 (78.2%)                     ||
+||    Running time : 1.87 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "counts/DRG_WT_timecours  ||
+|| e.txt.summary"                                                             ||
+||                                                                            ||
+\\============================================================================//

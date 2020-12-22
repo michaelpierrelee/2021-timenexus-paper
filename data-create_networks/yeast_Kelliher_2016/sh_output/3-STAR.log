@@ -1,0 +1,1188 @@
+
+--- SRR3405783.fastq ---
+>> FASTQC
+Started analysis of SRR3405783.fastq
+Approx 5% complete for SRR3405783.fastq
+Approx 10% complete for SRR3405783.fastq
+Approx 15% complete for SRR3405783.fastq
+Approx 20% complete for SRR3405783.fastq
+Approx 25% complete for SRR3405783.fastq
+Approx 30% complete for SRR3405783.fastq
+Approx 35% complete for SRR3405783.fastq
+Approx 40% complete for SRR3405783.fastq
+Approx 45% complete for SRR3405783.fastq
+Approx 50% complete for SRR3405783.fastq
+Approx 55% complete for SRR3405783.fastq
+Approx 60% complete for SRR3405783.fastq
+Approx 65% complete for SRR3405783.fastq
+Approx 70% complete for SRR3405783.fastq
+Approx 75% complete for SRR3405783.fastq
+Approx 80% complete for SRR3405783.fastq
+Approx 85% complete for SRR3405783.fastq
+Approx 90% complete for SRR3405783.fastq
+Approx 95% complete for SRR3405783.fastq
+Analysis complete for SRR3405783.fastq
+
+>> STAR
+Jul 30 11:59:05 ..... started STAR run
+Jul 30 11:59:05 ..... loading genome
+Jul 30 11:59:05 ..... processing annotations GTF
+Jul 30 11:59:05 ..... inserting junctions into the genome indices
+Jul 30 11:59:06 ..... started mapping
+Jul 30 12:00:46 ..... finished mapping
+Jul 30 12:00:46 ..... finished successfully
+
+--- SRR3405784.fastq ---
+>> FASTQC
+Started analysis of SRR3405784.fastq
+Approx 5% complete for SRR3405784.fastq
+Approx 10% complete for SRR3405784.fastq
+Approx 15% complete for SRR3405784.fastq
+Approx 20% complete for SRR3405784.fastq
+Approx 25% complete for SRR3405784.fastq
+Approx 30% complete for SRR3405784.fastq
+Approx 35% complete for SRR3405784.fastq
+Approx 40% complete for SRR3405784.fastq
+Approx 45% complete for SRR3405784.fastq
+Approx 50% complete for SRR3405784.fastq
+Approx 55% complete for SRR3405784.fastq
+Approx 60% complete for SRR3405784.fastq
+Approx 65% complete for SRR3405784.fastq
+Approx 70% complete for SRR3405784.fastq
+Approx 75% complete for SRR3405784.fastq
+Approx 80% complete for SRR3405784.fastq
+Approx 85% complete for SRR3405784.fastq
+Approx 90% complete for SRR3405784.fastq
+Approx 95% complete for SRR3405784.fastq
+Analysis complete for SRR3405784.fastq
+
+>> STAR
+Jul 30 12:02:33 ..... started STAR run
+Jul 30 12:02:33 ..... loading genome
+Jul 30 12:02:33 ..... processing annotations GTF
+Jul 30 12:02:33 ..... inserting junctions into the genome indices
+Jul 30 12:02:34 ..... started mapping
+Jul 30 12:04:19 ..... finished mapping
+Jul 30 12:04:19 ..... finished successfully
+
+--- SRR3405785.fastq ---
+>> FASTQC
+Started analysis of SRR3405785.fastq
+Approx 5% complete for SRR3405785.fastq
+Approx 10% complete for SRR3405785.fastq
+Approx 15% complete for SRR3405785.fastq
+Approx 20% complete for SRR3405785.fastq
+Approx 25% complete for SRR3405785.fastq
+Approx 30% complete for SRR3405785.fastq
+Approx 35% complete for SRR3405785.fastq
+Approx 40% complete for SRR3405785.fastq
+Approx 45% complete for SRR3405785.fastq
+Approx 50% complete for SRR3405785.fastq
+Approx 55% complete for SRR3405785.fastq
+Approx 60% complete for SRR3405785.fastq
+Approx 65% complete for SRR3405785.fastq
+Approx 70% complete for SRR3405785.fastq
+Approx 75% complete for SRR3405785.fastq
+Approx 80% complete for SRR3405785.fastq
+Approx 85% complete for SRR3405785.fastq
+Approx 90% complete for SRR3405785.fastq
+Approx 95% complete for SRR3405785.fastq
+Analysis complete for SRR3405785.fastq
+
+>> STAR
+Jul 30 12:05:57 ..... started STAR run
+Jul 30 12:05:57 ..... loading genome
+Jul 30 12:05:57 ..... processing annotations GTF
+Jul 30 12:05:57 ..... inserting junctions into the genome indices
+Jul 30 12:05:58 ..... started mapping
+Jul 30 12:07:40 ..... finished mapping
+Jul 30 12:07:40 ..... finished successfully
+
+--- SRR3405786.fastq ---
+>> FASTQC
+Started analysis of SRR3405786.fastq
+Approx 5% complete for SRR3405786.fastq
+Approx 10% complete for SRR3405786.fastq
+Approx 15% complete for SRR3405786.fastq
+Approx 20% complete for SRR3405786.fastq
+Approx 25% complete for SRR3405786.fastq
+Approx 30% complete for SRR3405786.fastq
+Approx 35% complete for SRR3405786.fastq
+Approx 40% complete for SRR3405786.fastq
+Approx 45% complete for SRR3405786.fastq
+Approx 50% complete for SRR3405786.fastq
+Approx 55% complete for SRR3405786.fastq
+Approx 60% complete for SRR3405786.fastq
+Approx 65% complete for SRR3405786.fastq
+Approx 70% complete for SRR3405786.fastq
+Approx 75% complete for SRR3405786.fastq
+Approx 80% complete for SRR3405786.fastq
+Approx 85% complete for SRR3405786.fastq
+Approx 90% complete for SRR3405786.fastq
+Approx 95% complete for SRR3405786.fastq
+Analysis complete for SRR3405786.fastq
+
+>> STAR
+Jul 30 12:09:10 ..... started STAR run
+Jul 30 12:09:10 ..... loading genome
+Jul 30 12:09:11 ..... processing annotations GTF
+Jul 30 12:09:11 ..... inserting junctions into the genome indices
+Jul 30 12:09:11 ..... started mapping
+Jul 30 12:10:44 ..... finished mapping
+Jul 30 12:10:44 ..... finished successfully
+
+--- SRR3405787.fastq ---
+>> FASTQC
+Started analysis of SRR3405787.fastq
+Approx 5% complete for SRR3405787.fastq
+Approx 10% complete for SRR3405787.fastq
+Approx 15% complete for SRR3405787.fastq
+Approx 20% complete for SRR3405787.fastq
+Approx 25% complete for SRR3405787.fastq
+Approx 30% complete for SRR3405787.fastq
+Approx 35% complete for SRR3405787.fastq
+Approx 40% complete for SRR3405787.fastq
+Approx 45% complete for SRR3405787.fastq
+Approx 50% complete for SRR3405787.fastq
+Approx 55% complete for SRR3405787.fastq
+Approx 60% complete for SRR3405787.fastq
+Approx 65% complete for SRR3405787.fastq
+Approx 70% complete for SRR3405787.fastq
+Approx 75% complete for SRR3405787.fastq
+Approx 80% complete for SRR3405787.fastq
+Approx 85% complete for SRR3405787.fastq
+Approx 90% complete for SRR3405787.fastq
+Approx 95% complete for SRR3405787.fastq
+Analysis complete for SRR3405787.fastq
+
+>> STAR
+Jul 30 12:12:15 ..... started STAR run
+Jul 30 12:12:15 ..... loading genome
+Jul 30 12:12:15 ..... processing annotations GTF
+Jul 30 12:12:15 ..... inserting junctions into the genome indices
+Jul 30 12:12:16 ..... started mapping
+Jul 30 12:13:57 ..... finished mapping
+Jul 30 12:13:57 ..... finished successfully
+
+--- SRR3405788.fastq ---
+>> FASTQC
+Started analysis of SRR3405788.fastq
+Approx 5% complete for SRR3405788.fastq
+Approx 10% complete for SRR3405788.fastq
+Approx 15% complete for SRR3405788.fastq
+Approx 20% complete for SRR3405788.fastq
+Approx 25% complete for SRR3405788.fastq
+Approx 30% complete for SRR3405788.fastq
+Approx 35% complete for SRR3405788.fastq
+Approx 40% complete for SRR3405788.fastq
+Approx 45% complete for SRR3405788.fastq
+Approx 50% complete for SRR3405788.fastq
+Approx 55% complete for SRR3405788.fastq
+Approx 60% complete for SRR3405788.fastq
+Approx 65% complete for SRR3405788.fastq
+Approx 70% complete for SRR3405788.fastq
+Approx 75% complete for SRR3405788.fastq
+Approx 80% complete for SRR3405788.fastq
+Approx 85% complete for SRR3405788.fastq
+Approx 90% complete for SRR3405788.fastq
+Approx 95% complete for SRR3405788.fastq
+Analysis complete for SRR3405788.fastq
+
+>> STAR
+Jul 30 12:15:38 ..... started STAR run
+Jul 30 12:15:38 ..... loading genome
+Jul 30 12:15:39 ..... processing annotations GTF
+Jul 30 12:15:39 ..... inserting junctions into the genome indices
+Jul 30 12:15:39 ..... started mapping
+Jul 30 12:17:27 ..... finished mapping
+Jul 30 12:17:27 ..... finished successfully
+
+--- SRR3405789.fastq ---
+>> FASTQC
+Started analysis of SRR3405789.fastq
+Approx 5% complete for SRR3405789.fastq
+Approx 10% complete for SRR3405789.fastq
+Approx 15% complete for SRR3405789.fastq
+Approx 20% complete for SRR3405789.fastq
+Approx 25% complete for SRR3405789.fastq
+Approx 30% complete for SRR3405789.fastq
+Approx 35% complete for SRR3405789.fastq
+Approx 40% complete for SRR3405789.fastq
+Approx 45% complete for SRR3405789.fastq
+Approx 50% complete for SRR3405789.fastq
+Approx 55% complete for SRR3405789.fastq
+Approx 60% complete for SRR3405789.fastq
+Approx 65% complete for SRR3405789.fastq
+Approx 70% complete for SRR3405789.fastq
+Approx 75% complete for SRR3405789.fastq
+Approx 80% complete for SRR3405789.fastq
+Approx 85% complete for SRR3405789.fastq
+Approx 90% complete for SRR3405789.fastq
+Approx 95% complete for SRR3405789.fastq
+Analysis complete for SRR3405789.fastq
+
+>> STAR
+Jul 30 12:19:15 ..... started STAR run
+Jul 30 12:19:15 ..... loading genome
+Jul 30 12:19:15 ..... processing annotations GTF
+Jul 30 12:19:15 ..... inserting junctions into the genome indices
+Jul 30 12:19:16 ..... started mapping
+Jul 30 12:21:09 ..... finished mapping
+Jul 30 12:21:09 ..... finished successfully
+
+--- SRR3405790.fastq ---
+>> FASTQC
+Started analysis of SRR3405790.fastq
+Approx 5% complete for SRR3405790.fastq
+Approx 10% complete for SRR3405790.fastq
+Approx 15% complete for SRR3405790.fastq
+Approx 20% complete for SRR3405790.fastq
+Approx 25% complete for SRR3405790.fastq
+Approx 30% complete for SRR3405790.fastq
+Approx 35% complete for SRR3405790.fastq
+Approx 40% complete for SRR3405790.fastq
+Approx 45% complete for SRR3405790.fastq
+Approx 50% complete for SRR3405790.fastq
+Approx 55% complete for SRR3405790.fastq
+Approx 60% complete for SRR3405790.fastq
+Approx 65% complete for SRR3405790.fastq
+Approx 70% complete for SRR3405790.fastq
+Approx 75% complete for SRR3405790.fastq
+Approx 80% complete for SRR3405790.fastq
+Approx 85% complete for SRR3405790.fastq
+Approx 90% complete for SRR3405790.fastq
+Approx 95% complete for SRR3405790.fastq
+Analysis complete for SRR3405790.fastq
+
+>> STAR
+Jul 30 12:22:47 ..... started STAR run
+Jul 30 12:22:47 ..... loading genome
+Jul 30 12:22:47 ..... processing annotations GTF
+Jul 30 12:22:47 ..... inserting junctions into the genome indices
+Jul 30 12:22:48 ..... started mapping
+Jul 30 12:24:29 ..... finished mapping
+Jul 30 12:24:30 ..... finished successfully
+
+--- SRR3405791.fastq ---
+>> FASTQC
+Started analysis of SRR3405791.fastq
+Approx 5% complete for SRR3405791.fastq
+Approx 10% complete for SRR3405791.fastq
+Approx 15% complete for SRR3405791.fastq
+Approx 20% complete for SRR3405791.fastq
+Approx 25% complete for SRR3405791.fastq
+Approx 30% complete for SRR3405791.fastq
+Approx 35% complete for SRR3405791.fastq
+Approx 40% complete for SRR3405791.fastq
+Approx 45% complete for SRR3405791.fastq
+Approx 50% complete for SRR3405791.fastq
+Approx 55% complete for SRR3405791.fastq
+Approx 60% complete for SRR3405791.fastq
+Approx 65% complete for SRR3405791.fastq
+Approx 70% complete for SRR3405791.fastq
+Approx 75% complete for SRR3405791.fastq
+Approx 80% complete for SRR3405791.fastq
+Approx 85% complete for SRR3405791.fastq
+Approx 90% complete for SRR3405791.fastq
+Approx 95% complete for SRR3405791.fastq
+Analysis complete for SRR3405791.fastq
+
+>> STAR
+Jul 30 12:26:17 ..... started STAR run
+Jul 30 12:26:17 ..... loading genome
+Jul 30 12:26:17 ..... processing annotations GTF
+Jul 30 12:26:18 ..... inserting junctions into the genome indices
+Jul 30 12:26:18 ..... started mapping
+Jul 30 12:28:09 ..... finished mapping
+Jul 30 12:28:10 ..... finished successfully
+
+--- SRR3405792.fastq ---
+>> FASTQC
+Started analysis of SRR3405792.fastq
+Approx 5% complete for SRR3405792.fastq
+Approx 10% complete for SRR3405792.fastq
+Approx 15% complete for SRR3405792.fastq
+Approx 20% complete for SRR3405792.fastq
+Approx 25% complete for SRR3405792.fastq
+Approx 30% complete for SRR3405792.fastq
+Approx 35% complete for SRR3405792.fastq
+Approx 40% complete for SRR3405792.fastq
+Approx 45% complete for SRR3405792.fastq
+Approx 50% complete for SRR3405792.fastq
+Approx 55% complete for SRR3405792.fastq
+Approx 60% complete for SRR3405792.fastq
+Approx 65% complete for SRR3405792.fastq
+Approx 70% complete for SRR3405792.fastq
+Approx 75% complete for SRR3405792.fastq
+Approx 80% complete for SRR3405792.fastq
+Approx 85% complete for SRR3405792.fastq
+Approx 90% complete for SRR3405792.fastq
+Approx 95% complete for SRR3405792.fastq
+Analysis complete for SRR3405792.fastq
+
+>> STAR
+Jul 30 12:29:52 ..... started STAR run
+Jul 30 12:29:52 ..... loading genome
+Jul 30 12:29:53 ..... processing annotations GTF
+Jul 30 12:29:53 ..... inserting junctions into the genome indices
+Jul 30 12:29:54 ..... started mapping
+Jul 30 12:31:37 ..... finished mapping
+Jul 30 12:31:37 ..... finished successfully
+
+--- SRR3405793.fastq ---
+>> FASTQC
+Started analysis of SRR3405793.fastq
+Approx 5% complete for SRR3405793.fastq
+Approx 10% complete for SRR3405793.fastq
+Approx 15% complete for SRR3405793.fastq
+Approx 20% complete for SRR3405793.fastq
+Approx 25% complete for SRR3405793.fastq
+Approx 30% complete for SRR3405793.fastq
+Approx 35% complete for SRR3405793.fastq
+Approx 40% complete for SRR3405793.fastq
+Approx 45% complete for SRR3405793.fastq
+Approx 50% complete for SRR3405793.fastq
+Approx 55% complete for SRR3405793.fastq
+Approx 60% complete for SRR3405793.fastq
+Approx 65% complete for SRR3405793.fastq
+Approx 70% complete for SRR3405793.fastq
+Approx 75% complete for SRR3405793.fastq
+Approx 80% complete for SRR3405793.fastq
+Approx 85% complete for SRR3405793.fastq
+Approx 90% complete for SRR3405793.fastq
+Approx 95% complete for SRR3405793.fastq
+Analysis complete for SRR3405793.fastq
+
+>> STAR
+Jul 30 12:33:12 ..... started STAR run
+Jul 30 12:33:12 ..... loading genome
+Jul 30 12:33:12 ..... processing annotations GTF
+Jul 30 12:33:12 ..... inserting junctions into the genome indices
+Jul 30 12:33:13 ..... started mapping
+Jul 30 12:34:55 ..... finished mapping
+Jul 30 12:34:55 ..... finished successfully
+
+--- SRR3405794.fastq ---
+>> FASTQC
+Started analysis of SRR3405794.fastq
+Approx 5% complete for SRR3405794.fastq
+Approx 10% complete for SRR3405794.fastq
+Approx 15% complete for SRR3405794.fastq
+Approx 20% complete for SRR3405794.fastq
+Approx 25% complete for SRR3405794.fastq
+Approx 30% complete for SRR3405794.fastq
+Approx 35% complete for SRR3405794.fastq
+Approx 40% complete for SRR3405794.fastq
+Approx 45% complete for SRR3405794.fastq
+Approx 50% complete for SRR3405794.fastq
+Approx 55% complete for SRR3405794.fastq
+Approx 60% complete for SRR3405794.fastq
+Approx 65% complete for SRR3405794.fastq
+Approx 70% complete for SRR3405794.fastq
+Approx 75% complete for SRR3405794.fastq
+Approx 80% complete for SRR3405794.fastq
+Approx 85% complete for SRR3405794.fastq
+Approx 90% complete for SRR3405794.fastq
+Approx 95% complete for SRR3405794.fastq
+Analysis complete for SRR3405794.fastq
+
+>> STAR
+Jul 30 12:36:37 ..... started STAR run
+Jul 30 12:36:37 ..... loading genome
+Jul 30 12:36:37 ..... processing annotations GTF
+Jul 30 12:36:37 ..... inserting junctions into the genome indices
+Jul 30 12:36:38 ..... started mapping
+Jul 30 12:38:21 ..... finished mapping
+Jul 30 12:38:22 ..... finished successfully
+
+--- SRR3405795.fastq ---
+>> FASTQC
+Started analysis of SRR3405795.fastq
+Approx 5% complete for SRR3405795.fastq
+Approx 10% complete for SRR3405795.fastq
+Approx 15% complete for SRR3405795.fastq
+Approx 20% complete for SRR3405795.fastq
+Approx 25% complete for SRR3405795.fastq
+Approx 30% complete for SRR3405795.fastq
+Approx 35% complete for SRR3405795.fastq
+Approx 40% complete for SRR3405795.fastq
+Approx 45% complete for SRR3405795.fastq
+Approx 50% complete for SRR3405795.fastq
+Approx 55% complete for SRR3405795.fastq
+Approx 60% complete for SRR3405795.fastq
+Approx 65% complete for SRR3405795.fastq
+Approx 70% complete for SRR3405795.fastq
+Approx 75% complete for SRR3405795.fastq
+Approx 80% complete for SRR3405795.fastq
+Approx 85% complete for SRR3405795.fastq
+Approx 90% complete for SRR3405795.fastq
+Approx 95% complete for SRR3405795.fastq
+Analysis complete for SRR3405795.fastq
+
+>> STAR
+Jul 30 12:40:04 ..... started STAR run
+Jul 30 12:40:04 ..... loading genome
+Jul 30 12:40:04 ..... processing annotations GTF
+Jul 30 12:40:04 ..... inserting junctions into the genome indices
+Jul 30 12:40:05 ..... started mapping
+Jul 30 12:41:52 ..... finished mapping
+Jul 30 12:41:53 ..... finished successfully
+
+--- SRR3405796.fastq ---
+>> FASTQC
+Started analysis of SRR3405796.fastq
+Approx 5% complete for SRR3405796.fastq
+Approx 10% complete for SRR3405796.fastq
+Approx 15% complete for SRR3405796.fastq
+Approx 20% complete for SRR3405796.fastq
+Approx 25% complete for SRR3405796.fastq
+Approx 30% complete for SRR3405796.fastq
+Approx 35% complete for SRR3405796.fastq
+Approx 40% complete for SRR3405796.fastq
+Approx 45% complete for SRR3405796.fastq
+Approx 50% complete for SRR3405796.fastq
+Approx 55% complete for SRR3405796.fastq
+Approx 60% complete for SRR3405796.fastq
+Approx 65% complete for SRR3405796.fastq
+Approx 70% complete for SRR3405796.fastq
+Approx 75% complete for SRR3405796.fastq
+Approx 80% complete for SRR3405796.fastq
+Approx 85% complete for SRR3405796.fastq
+Approx 90% complete for SRR3405796.fastq
+Approx 95% complete for SRR3405796.fastq
+Analysis complete for SRR3405796.fastq
+
+>> STAR
+Jul 30 12:43:24 ..... started STAR run
+Jul 30 12:43:24 ..... loading genome
+Jul 30 12:43:24 ..... processing annotations GTF
+Jul 30 12:43:24 ..... inserting junctions into the genome indices
+Jul 30 12:43:25 ..... started mapping
+Jul 30 12:44:59 ..... finished mapping
+Jul 30 12:44:59 ..... finished successfully
+
+--- SRR3405797.fastq ---
+>> FASTQC
+Started analysis of SRR3405797.fastq
+Approx 5% complete for SRR3405797.fastq
+Approx 10% complete for SRR3405797.fastq
+Approx 15% complete for SRR3405797.fastq
+Approx 20% complete for SRR3405797.fastq
+Approx 25% complete for SRR3405797.fastq
+Approx 30% complete for SRR3405797.fastq
+Approx 35% complete for SRR3405797.fastq
+Approx 40% complete for SRR3405797.fastq
+Approx 45% complete for SRR3405797.fastq
+Approx 50% complete for SRR3405797.fastq
+Approx 55% complete for SRR3405797.fastq
+Approx 60% complete for SRR3405797.fastq
+Approx 65% complete for SRR3405797.fastq
+Approx 70% complete for SRR3405797.fastq
+Approx 75% complete for SRR3405797.fastq
+Approx 80% complete for SRR3405797.fastq
+Approx 85% complete for SRR3405797.fastq
+Approx 90% complete for SRR3405797.fastq
+Approx 95% complete for SRR3405797.fastq
+Analysis complete for SRR3405797.fastq
+
+>> STAR
+Jul 30 12:46:32 ..... started STAR run
+Jul 30 12:46:32 ..... loading genome
+Jul 30 12:46:32 ..... processing annotations GTF
+Jul 30 12:46:32 ..... inserting junctions into the genome indices
+Jul 30 12:46:33 ..... started mapping
+Jul 30 12:48:06 ..... finished mapping
+Jul 30 12:48:06 ..... finished successfully
+
+--- SRR3405798.fastq ---
+>> FASTQC
+Started analysis of SRR3405798.fastq
+Approx 5% complete for SRR3405798.fastq
+Approx 10% complete for SRR3405798.fastq
+Approx 15% complete for SRR3405798.fastq
+Approx 20% complete for SRR3405798.fastq
+Approx 25% complete for SRR3405798.fastq
+Approx 30% complete for SRR3405798.fastq
+Approx 35% complete for SRR3405798.fastq
+Approx 40% complete for SRR3405798.fastq
+Approx 45% complete for SRR3405798.fastq
+Approx 50% complete for SRR3405798.fastq
+Approx 55% complete for SRR3405798.fastq
+Approx 60% complete for SRR3405798.fastq
+Approx 65% complete for SRR3405798.fastq
+Approx 70% complete for SRR3405798.fastq
+Approx 75% complete for SRR3405798.fastq
+Approx 80% complete for SRR3405798.fastq
+Approx 85% complete for SRR3405798.fastq
+Approx 90% complete for SRR3405798.fastq
+Approx 95% complete for SRR3405798.fastq
+Analysis complete for SRR3405798.fastq
+
+>> STAR
+Jul 30 12:49:14 ..... started STAR run
+Jul 30 12:49:14 ..... loading genome
+Jul 30 12:49:14 ..... processing annotations GTF
+Jul 30 12:49:14 ..... inserting junctions into the genome indices
+Jul 30 12:49:15 ..... started mapping
+Jul 30 12:50:35 ..... finished mapping
+Jul 30 12:50:35 ..... finished successfully
+
+--- SRR3405799.fastq ---
+>> FASTQC
+Started analysis of SRR3405799.fastq
+Approx 5% complete for SRR3405799.fastq
+Approx 10% complete for SRR3405799.fastq
+Approx 15% complete for SRR3405799.fastq
+Approx 20% complete for SRR3405799.fastq
+Approx 25% complete for SRR3405799.fastq
+Approx 30% complete for SRR3405799.fastq
+Approx 35% complete for SRR3405799.fastq
+Approx 40% complete for SRR3405799.fastq
+Approx 45% complete for SRR3405799.fastq
+Approx 50% complete for SRR3405799.fastq
+Approx 55% complete for SRR3405799.fastq
+Approx 60% complete for SRR3405799.fastq
+Approx 65% complete for SRR3405799.fastq
+Approx 70% complete for SRR3405799.fastq
+Approx 75% complete for SRR3405799.fastq
+Approx 80% complete for SRR3405799.fastq
+Approx 85% complete for SRR3405799.fastq
+Approx 90% complete for SRR3405799.fastq
+Approx 95% complete for SRR3405799.fastq
+Analysis complete for SRR3405799.fastq
+
+>> STAR
+Jul 30 12:52:28 ..... started STAR run
+Jul 30 12:52:28 ..... loading genome
+Jul 30 12:52:28 ..... processing annotations GTF
+Jul 30 12:52:28 ..... inserting junctions into the genome indices
+Jul 30 12:52:29 ..... started mapping
+Jul 30 12:54:25 ..... finished mapping
+Jul 30 12:54:25 ..... finished successfully
+
+--- SRR3405800.fastq ---
+>> FASTQC
+Started analysis of SRR3405800.fastq
+Approx 5% complete for SRR3405800.fastq
+Approx 10% complete for SRR3405800.fastq
+Approx 15% complete for SRR3405800.fastq
+Approx 20% complete for SRR3405800.fastq
+Approx 25% complete for SRR3405800.fastq
+Approx 30% complete for SRR3405800.fastq
+Approx 35% complete for SRR3405800.fastq
+Approx 40% complete for SRR3405800.fastq
+Approx 45% complete for SRR3405800.fastq
+Approx 50% complete for SRR3405800.fastq
+Approx 55% complete for SRR3405800.fastq
+Approx 60% complete for SRR3405800.fastq
+Approx 65% complete for SRR3405800.fastq
+Approx 70% complete for SRR3405800.fastq
+Approx 75% complete for SRR3405800.fastq
+Approx 80% complete for SRR3405800.fastq
+Approx 85% complete for SRR3405800.fastq
+Approx 90% complete for SRR3405800.fastq
+Approx 95% complete for SRR3405800.fastq
+Analysis complete for SRR3405800.fastq
+
+>> STAR
+Jul 30 12:56:12 ..... started STAR run
+Jul 30 12:56:12 ..... loading genome
+Jul 30 12:56:12 ..... processing annotations GTF
+Jul 30 12:56:12 ..... inserting junctions into the genome indices
+Jul 30 12:56:13 ..... started mapping
+Jul 30 12:58:04 ..... finished mapping
+Jul 30 12:58:04 ..... finished successfully
+
+--- SRR3405801.fastq ---
+>> FASTQC
+Started analysis of SRR3405801.fastq
+Approx 5% complete for SRR3405801.fastq
+Approx 10% complete for SRR3405801.fastq
+Approx 15% complete for SRR3405801.fastq
+Approx 20% complete for SRR3405801.fastq
+Approx 25% complete for SRR3405801.fastq
+Approx 30% complete for SRR3405801.fastq
+Approx 35% complete for SRR3405801.fastq
+Approx 40% complete for SRR3405801.fastq
+Approx 45% complete for SRR3405801.fastq
+Approx 50% complete for SRR3405801.fastq
+Approx 55% complete for SRR3405801.fastq
+Approx 60% complete for SRR3405801.fastq
+Approx 65% complete for SRR3405801.fastq
+Approx 70% complete for SRR3405801.fastq
+Approx 75% complete for SRR3405801.fastq
+Approx 80% complete for SRR3405801.fastq
+Approx 85% complete for SRR3405801.fastq
+Approx 90% complete for SRR3405801.fastq
+Approx 95% complete for SRR3405801.fastq
+Analysis complete for SRR3405801.fastq
+
+>> STAR
+Jul 30 12:59:11 ..... started STAR run
+Jul 30 12:59:11 ..... loading genome
+Jul 30 12:59:11 ..... processing annotations GTF
+Jul 30 12:59:11 ..... inserting junctions into the genome indices
+Jul 30 12:59:12 ..... started mapping
+Jul 30 13:00:23 ..... finished mapping
+Jul 30 13:00:24 ..... finished successfully
+
+--- SRR3405802.fastq ---
+>> FASTQC
+Started analysis of SRR3405802.fastq
+Approx 5% complete for SRR3405802.fastq
+Approx 10% complete for SRR3405802.fastq
+Approx 15% complete for SRR3405802.fastq
+Approx 20% complete for SRR3405802.fastq
+Approx 25% complete for SRR3405802.fastq
+Approx 30% complete for SRR3405802.fastq
+Approx 35% complete for SRR3405802.fastq
+Approx 40% complete for SRR3405802.fastq
+Approx 45% complete for SRR3405802.fastq
+Approx 50% complete for SRR3405802.fastq
+Approx 55% complete for SRR3405802.fastq
+Approx 60% complete for SRR3405802.fastq
+Approx 65% complete for SRR3405802.fastq
+Approx 70% complete for SRR3405802.fastq
+Approx 75% complete for SRR3405802.fastq
+Approx 80% complete for SRR3405802.fastq
+Approx 85% complete for SRR3405802.fastq
+Approx 90% complete for SRR3405802.fastq
+Approx 95% complete for SRR3405802.fastq
+Analysis complete for SRR3405802.fastq
+
+>> STAR
+Jul 30 13:01:45 ..... started STAR run
+Jul 30 13:01:45 ..... loading genome
+Jul 30 13:01:45 ..... processing annotations GTF
+Jul 30 13:01:46 ..... inserting junctions into the genome indices
+Jul 30 13:01:46 ..... started mapping
+Jul 30 13:03:13 ..... finished mapping
+Jul 30 13:03:13 ..... finished successfully
+
+--- SRR3405803.fastq ---
+>> FASTQC
+Started analysis of SRR3405803.fastq
+Approx 5% complete for SRR3405803.fastq
+Approx 10% complete for SRR3405803.fastq
+Approx 15% complete for SRR3405803.fastq
+Approx 20% complete for SRR3405803.fastq
+Approx 25% complete for SRR3405803.fastq
+Approx 30% complete for SRR3405803.fastq
+Approx 35% complete for SRR3405803.fastq
+Approx 40% complete for SRR3405803.fastq
+Approx 45% complete for SRR3405803.fastq
+Approx 50% complete for SRR3405803.fastq
+Approx 55% complete for SRR3405803.fastq
+Approx 60% complete for SRR3405803.fastq
+Approx 65% complete for SRR3405803.fastq
+Approx 70% complete for SRR3405803.fastq
+Approx 75% complete for SRR3405803.fastq
+Approx 80% complete for SRR3405803.fastq
+Approx 85% complete for SRR3405803.fastq
+Approx 90% complete for SRR3405803.fastq
+Approx 95% complete for SRR3405803.fastq
+Analysis complete for SRR3405803.fastq
+
+>> STAR
+Jul 30 13:04:46 ..... started STAR run
+Jul 30 13:04:46 ..... loading genome
+Jul 30 13:04:46 ..... processing annotations GTF
+Jul 30 13:04:46 ..... inserting junctions into the genome indices
+Jul 30 13:04:47 ..... started mapping
+Jul 30 13:06:20 ..... finished mapping
+Jul 30 13:06:20 ..... finished successfully
+
+--- SRR3405804.fastq ---
+>> FASTQC
+Started analysis of SRR3405804.fastq
+Approx 5% complete for SRR3405804.fastq
+Approx 10% complete for SRR3405804.fastq
+Approx 15% complete for SRR3405804.fastq
+Approx 20% complete for SRR3405804.fastq
+Approx 25% complete for SRR3405804.fastq
+Approx 30% complete for SRR3405804.fastq
+Approx 35% complete for SRR3405804.fastq
+Approx 40% complete for SRR3405804.fastq
+Approx 45% complete for SRR3405804.fastq
+Approx 50% complete for SRR3405804.fastq
+Approx 55% complete for SRR3405804.fastq
+Approx 60% complete for SRR3405804.fastq
+Approx 65% complete for SRR3405804.fastq
+Approx 70% complete for SRR3405804.fastq
+Approx 75% complete for SRR3405804.fastq
+Approx 80% complete for SRR3405804.fastq
+Approx 85% complete for SRR3405804.fastq
+Approx 90% complete for SRR3405804.fastq
+Approx 95% complete for SRR3405804.fastq
+Analysis complete for SRR3405804.fastq
+
+>> STAR
+Jul 30 13:07:40 ..... started STAR run
+Jul 30 13:07:40 ..... loading genome
+Jul 30 13:07:40 ..... processing annotations GTF
+Jul 30 13:07:40 ..... inserting junctions into the genome indices
+Jul 30 13:07:41 ..... started mapping
+Jul 30 13:09:03 ..... finished mapping
+Jul 30 13:09:03 ..... finished successfully
+
+--- SRR3405805.fastq ---
+>> FASTQC
+Started analysis of SRR3405805.fastq
+Approx 5% complete for SRR3405805.fastq
+Approx 10% complete for SRR3405805.fastq
+Approx 15% complete for SRR3405805.fastq
+Approx 20% complete for SRR3405805.fastq
+Approx 25% complete for SRR3405805.fastq
+Approx 30% complete for SRR3405805.fastq
+Approx 35% complete for SRR3405805.fastq
+Approx 40% complete for SRR3405805.fastq
+Approx 45% complete for SRR3405805.fastq
+Approx 50% complete for SRR3405805.fastq
+Approx 55% complete for SRR3405805.fastq
+Approx 60% complete for SRR3405805.fastq
+Approx 65% complete for SRR3405805.fastq
+Approx 70% complete for SRR3405805.fastq
+Approx 75% complete for SRR3405805.fastq
+Approx 80% complete for SRR3405805.fastq
+Approx 85% complete for SRR3405805.fastq
+Approx 90% complete for SRR3405805.fastq
+Approx 95% complete for SRR3405805.fastq
+Analysis complete for SRR3405805.fastq
+
+>> STAR
+Jul 30 13:10:27 ..... started STAR run
+Jul 30 13:10:27 ..... loading genome
+Jul 30 13:10:28 ..... processing annotations GTF
+Jul 30 13:10:28 ..... inserting junctions into the genome indices
+Jul 30 13:10:29 ..... started mapping
+Jul 30 13:11:54 ..... finished mapping
+Jul 30 13:11:55 ..... finished successfully
+
+--- SRR3405806.fastq ---
+>> FASTQC
+Started analysis of SRR3405806.fastq
+Approx 5% complete for SRR3405806.fastq
+Approx 10% complete for SRR3405806.fastq
+Approx 15% complete for SRR3405806.fastq
+Approx 20% complete for SRR3405806.fastq
+Approx 25% complete for SRR3405806.fastq
+Approx 30% complete for SRR3405806.fastq
+Approx 35% complete for SRR3405806.fastq
+Approx 40% complete for SRR3405806.fastq
+Approx 45% complete for SRR3405806.fastq
+Approx 50% complete for SRR3405806.fastq
+Approx 55% complete for SRR3405806.fastq
+Approx 60% complete for SRR3405806.fastq
+Approx 65% complete for SRR3405806.fastq
+Approx 70% complete for SRR3405806.fastq
+Approx 75% complete for SRR3405806.fastq
+Approx 80% complete for SRR3405806.fastq
+Approx 85% complete for SRR3405806.fastq
+Approx 90% complete for SRR3405806.fastq
+Approx 95% complete for SRR3405806.fastq
+Analysis complete for SRR3405806.fastq
+
+>> STAR
+Jul 30 13:13:45 ..... started STAR run
+Jul 30 13:13:45 ..... loading genome
+Jul 30 13:13:45 ..... processing annotations GTF
+Jul 30 13:13:46 ..... inserting junctions into the genome indices
+Jul 30 13:13:46 ..... started mapping
+Jul 30 13:15:41 ..... finished mapping
+Jul 30 13:15:41 ..... finished successfully
+
+--- SRR3405807.fastq ---
+>> FASTQC
+Started analysis of SRR3405807.fastq
+Approx 5% complete for SRR3405807.fastq
+Approx 10% complete for SRR3405807.fastq
+Approx 15% complete for SRR3405807.fastq
+Approx 20% complete for SRR3405807.fastq
+Approx 25% complete for SRR3405807.fastq
+Approx 30% complete for SRR3405807.fastq
+Approx 35% complete for SRR3405807.fastq
+Approx 40% complete for SRR3405807.fastq
+Approx 45% complete for SRR3405807.fastq
+Approx 50% complete for SRR3405807.fastq
+Approx 55% complete for SRR3405807.fastq
+Approx 60% complete for SRR3405807.fastq
+Approx 65% complete for SRR3405807.fastq
+Approx 70% complete for SRR3405807.fastq
+Approx 75% complete for SRR3405807.fastq
+Approx 80% complete for SRR3405807.fastq
+Approx 85% complete for SRR3405807.fastq
+Approx 90% complete for SRR3405807.fastq
+Approx 95% complete for SRR3405807.fastq
+Analysis complete for SRR3405807.fastq
+
+>> STAR
+Jul 30 13:17:04 ..... started STAR run
+Jul 30 13:17:04 ..... loading genome
+Jul 30 13:17:04 ..... processing annotations GTF
+Jul 30 13:17:04 ..... inserting junctions into the genome indices
+Jul 30 13:17:05 ..... started mapping
+Jul 30 13:18:28 ..... finished mapping
+Jul 30 13:18:28 ..... finished successfully
+
+--- SRR3405808.fastq ---
+>> FASTQC
+Started analysis of SRR3405808.fastq
+Approx 5% complete for SRR3405808.fastq
+Approx 10% complete for SRR3405808.fastq
+Approx 15% complete for SRR3405808.fastq
+Approx 20% complete for SRR3405808.fastq
+Approx 25% complete for SRR3405808.fastq
+Approx 30% complete for SRR3405808.fastq
+Approx 35% complete for SRR3405808.fastq
+Approx 40% complete for SRR3405808.fastq
+Approx 45% complete for SRR3405808.fastq
+Approx 50% complete for SRR3405808.fastq
+Approx 55% complete for SRR3405808.fastq
+Approx 60% complete for SRR3405808.fastq
+Approx 65% complete for SRR3405808.fastq
+Approx 70% complete for SRR3405808.fastq
+Approx 75% complete for SRR3405808.fastq
+Approx 80% complete for SRR3405808.fastq
+Approx 85% complete for SRR3405808.fastq
+Approx 90% complete for SRR3405808.fastq
+Approx 95% complete for SRR3405808.fastq
+Analysis complete for SRR3405808.fastq
+
+>> STAR
+Jul 30 13:19:47 ..... started STAR run
+Jul 30 13:19:47 ..... loading genome
+Jul 30 13:19:47 ..... processing annotations GTF
+Jul 30 13:19:48 ..... inserting junctions into the genome indices
+Jul 30 13:19:48 ..... started mapping
+Jul 30 13:21:10 ..... finished mapping
+Jul 30 13:21:10 ..... finished successfully
+
+--- SRR3405809.fastq ---
+>> FASTQC
+Started analysis of SRR3405809.fastq
+Approx 5% complete for SRR3405809.fastq
+Approx 10% complete for SRR3405809.fastq
+Approx 15% complete for SRR3405809.fastq
+Approx 20% complete for SRR3405809.fastq
+Approx 25% complete for SRR3405809.fastq
+Approx 30% complete for SRR3405809.fastq
+Approx 35% complete for SRR3405809.fastq
+Approx 40% complete for SRR3405809.fastq
+Approx 45% complete for SRR3405809.fastq
+Approx 50% complete for SRR3405809.fastq
+Approx 55% complete for SRR3405809.fastq
+Approx 60% complete for SRR3405809.fastq
+Approx 65% complete for SRR3405809.fastq
+Approx 70% complete for SRR3405809.fastq
+Approx 75% complete for SRR3405809.fastq
+Approx 80% complete for SRR3405809.fastq
+Approx 85% complete for SRR3405809.fastq
+Approx 90% complete for SRR3405809.fastq
+Approx 95% complete for SRR3405809.fastq
+Analysis complete for SRR3405809.fastq
+
+>> STAR
+Jul 30 13:22:36 ..... started STAR run
+Jul 30 13:22:36 ..... loading genome
+Jul 30 13:22:36 ..... processing annotations GTF
+Jul 30 13:22:36 ..... inserting junctions into the genome indices
+Jul 30 13:22:37 ..... started mapping
+Jul 30 13:24:04 ..... finished mapping
+Jul 30 13:24:04 ..... finished successfully
+
+--- SRR3405810.fastq ---
+>> FASTQC
+Started analysis of SRR3405810.fastq
+Approx 5% complete for SRR3405810.fastq
+Approx 10% complete for SRR3405810.fastq
+Approx 15% complete for SRR3405810.fastq
+Approx 20% complete for SRR3405810.fastq
+Approx 25% complete for SRR3405810.fastq
+Approx 30% complete for SRR3405810.fastq
+Approx 35% complete for SRR3405810.fastq
+Approx 40% complete for SRR3405810.fastq
+Approx 45% complete for SRR3405810.fastq
+Approx 50% complete for SRR3405810.fastq
+Approx 55% complete for SRR3405810.fastq
+Approx 60% complete for SRR3405810.fastq
+Approx 65% complete for SRR3405810.fastq
+Approx 70% complete for SRR3405810.fastq
+Approx 75% complete for SRR3405810.fastq
+Approx 80% complete for SRR3405810.fastq
+Approx 85% complete for SRR3405810.fastq
+Approx 90% complete for SRR3405810.fastq
+Approx 95% complete for SRR3405810.fastq
+Analysis complete for SRR3405810.fastq
+
+>> STAR
+Jul 30 13:25:57 ..... started STAR run
+Jul 30 13:25:57 ..... loading genome
+Jul 30 13:25:58 ..... processing annotations GTF
+Jul 30 13:25:58 ..... inserting junctions into the genome indices
+Jul 30 13:25:59 ..... started mapping
+Jul 30 13:27:51 ..... finished mapping
+Jul 30 13:27:51 ..... finished successfully
+
+--- SRR3405811.fastq ---
+>> FASTQC
+Started analysis of SRR3405811.fastq
+Approx 5% complete for SRR3405811.fastq
+Approx 10% complete for SRR3405811.fastq
+Approx 15% complete for SRR3405811.fastq
+Approx 20% complete for SRR3405811.fastq
+Approx 25% complete for SRR3405811.fastq
+Approx 30% complete for SRR3405811.fastq
+Approx 35% complete for SRR3405811.fastq
+Approx 40% complete for SRR3405811.fastq
+Approx 45% complete for SRR3405811.fastq
+Approx 50% complete for SRR3405811.fastq
+Approx 55% complete for SRR3405811.fastq
+Approx 60% complete for SRR3405811.fastq
+Approx 65% complete for SRR3405811.fastq
+Approx 70% complete for SRR3405811.fastq
+Approx 75% complete for SRR3405811.fastq
+Approx 80% complete for SRR3405811.fastq
+Approx 85% complete for SRR3405811.fastq
+Approx 90% complete for SRR3405811.fastq
+Approx 95% complete for SRR3405811.fastq
+Analysis complete for SRR3405811.fastq
+
+>> STAR
+Jul 30 13:29:48 ..... started STAR run
+Jul 30 13:29:48 ..... loading genome
+Jul 30 13:29:48 ..... processing annotations GTF
+Jul 30 13:29:48 ..... inserting junctions into the genome indices
+Jul 30 13:29:49 ..... started mapping
+Jul 30 13:31:46 ..... finished mapping
+Jul 30 13:31:46 ..... finished successfully
+
+--- SRR3405812.fastq ---
+>> FASTQC
+Started analysis of SRR3405812.fastq
+Approx 5% complete for SRR3405812.fastq
+Approx 10% complete for SRR3405812.fastq
+Approx 15% complete for SRR3405812.fastq
+Approx 20% complete for SRR3405812.fastq
+Approx 25% complete for SRR3405812.fastq
+Approx 30% complete for SRR3405812.fastq
+Approx 35% complete for SRR3405812.fastq
+Approx 40% complete for SRR3405812.fastq
+Approx 45% complete for SRR3405812.fastq
+Approx 50% complete for SRR3405812.fastq
+Approx 55% complete for SRR3405812.fastq
+Approx 60% complete for SRR3405812.fastq
+Approx 65% complete for SRR3405812.fastq
+Approx 70% complete for SRR3405812.fastq
+Approx 75% complete for SRR3405812.fastq
+Approx 80% complete for SRR3405812.fastq
+Approx 85% complete for SRR3405812.fastq
+Approx 90% complete for SRR3405812.fastq
+Approx 95% complete for SRR3405812.fastq
+Analysis complete for SRR3405812.fastq
+
+>> STAR
+Jul 30 13:33:17 ..... started STAR run
+Jul 30 13:33:17 ..... loading genome
+Jul 30 13:33:17 ..... processing annotations GTF
+Jul 30 13:33:17 ..... inserting junctions into the genome indices
+Jul 30 13:33:18 ..... started mapping
+Jul 30 13:34:52 ..... finished mapping
+Jul 30 13:34:52 ..... finished successfully
+
+--- SRR3405813.fastq ---
+>> FASTQC
+Started analysis of SRR3405813.fastq
+Approx 5% complete for SRR3405813.fastq
+Approx 10% complete for SRR3405813.fastq
+Approx 15% complete for SRR3405813.fastq
+Approx 20% complete for SRR3405813.fastq
+Approx 25% complete for SRR3405813.fastq
+Approx 30% complete for SRR3405813.fastq
+Approx 35% complete for SRR3405813.fastq
+Approx 40% complete for SRR3405813.fastq
+Approx 45% complete for SRR3405813.fastq
+Approx 50% complete for SRR3405813.fastq
+Approx 55% complete for SRR3405813.fastq
+Approx 60% complete for SRR3405813.fastq
+Approx 65% complete for SRR3405813.fastq
+Approx 70% complete for SRR3405813.fastq
+Approx 75% complete for SRR3405813.fastq
+Approx 80% complete for SRR3405813.fastq
+Approx 85% complete for SRR3405813.fastq
+Approx 90% complete for SRR3405813.fastq
+Approx 95% complete for SRR3405813.fastq
+Analysis complete for SRR3405813.fastq
+
+>> STAR
+Jul 30 13:36:36 ..... started STAR run
+Jul 30 13:36:36 ..... loading genome
+Jul 30 13:36:37 ..... processing annotations GTF
+Jul 30 13:36:37 ..... inserting junctions into the genome indices
+Jul 30 13:36:37 ..... started mapping
+Jul 30 13:38:25 ..... finished mapping
+Jul 30 13:38:25 ..... finished successfully
+
+--- SRR3405814.fastq ---
+>> FASTQC
+Started analysis of SRR3405814.fastq
+Approx 5% complete for SRR3405814.fastq
+Approx 10% complete for SRR3405814.fastq
+Approx 15% complete for SRR3405814.fastq
+Approx 20% complete for SRR3405814.fastq
+Approx 25% complete for SRR3405814.fastq
+Approx 30% complete for SRR3405814.fastq
+Approx 35% complete for SRR3405814.fastq
+Approx 40% complete for SRR3405814.fastq
+Approx 45% complete for SRR3405814.fastq
+Approx 50% complete for SRR3405814.fastq
+Approx 55% complete for SRR3405814.fastq
+Approx 60% complete for SRR3405814.fastq
+Approx 65% complete for SRR3405814.fastq
+Approx 70% complete for SRR3405814.fastq
+Approx 75% complete for SRR3405814.fastq
+Approx 80% complete for SRR3405814.fastq
+Approx 85% complete for SRR3405814.fastq
+Approx 90% complete for SRR3405814.fastq
+Approx 95% complete for SRR3405814.fastq
+Analysis complete for SRR3405814.fastq
+
+>> STAR
+Jul 30 13:40:09 ..... started STAR run
+Jul 30 13:40:09 ..... loading genome
+Jul 30 13:40:10 ..... processing annotations GTF
+Jul 30 13:40:10 ..... inserting junctions into the genome indices
+Jul 30 13:40:11 ..... started mapping
+Jul 30 13:41:57 ..... finished mapping
+Jul 30 13:41:57 ..... finished successfully
+
+--- SRR3405815.fastq ---
+>> FASTQC
+Started analysis of SRR3405815.fastq
+Approx 5% complete for SRR3405815.fastq
+Approx 10% complete for SRR3405815.fastq
+Approx 15% complete for SRR3405815.fastq
+Approx 20% complete for SRR3405815.fastq
+Approx 25% complete for SRR3405815.fastq
+Approx 30% complete for SRR3405815.fastq
+Approx 35% complete for SRR3405815.fastq
+Approx 40% complete for SRR3405815.fastq
+Approx 45% complete for SRR3405815.fastq
+Approx 50% complete for SRR3405815.fastq
+Approx 55% complete for SRR3405815.fastq
+Approx 60% complete for SRR3405815.fastq
+Approx 65% complete for SRR3405815.fastq
+Approx 70% complete for SRR3405815.fastq
+Approx 75% complete for SRR3405815.fastq
+Approx 80% complete for SRR3405815.fastq
+Approx 85% complete for SRR3405815.fastq
+Approx 90% complete for SRR3405815.fastq
+Approx 95% complete for SRR3405815.fastq
+Analysis complete for SRR3405815.fastq
+
+>> STAR
+Jul 30 13:43:34 ..... started STAR run
+Jul 30 13:43:34 ..... loading genome
+Jul 30 13:43:34 ..... processing annotations GTF
+Jul 30 13:43:34 ..... inserting junctions into the genome indices
+Jul 30 13:43:35 ..... started mapping
+Jul 30 13:45:17 ..... finished mapping
+Jul 30 13:45:17 ..... finished successfully
+
+--- SRR3405816.fastq ---
+>> FASTQC
+Started analysis of SRR3405816.fastq
+Approx 5% complete for SRR3405816.fastq
+Approx 10% complete for SRR3405816.fastq
+Approx 15% complete for SRR3405816.fastq
+Approx 20% complete for SRR3405816.fastq
+Approx 25% complete for SRR3405816.fastq
+Approx 30% complete for SRR3405816.fastq
+Approx 35% complete for SRR3405816.fastq
+Approx 40% complete for SRR3405816.fastq
+Approx 45% complete for SRR3405816.fastq
+Approx 50% complete for SRR3405816.fastq
+Approx 55% complete for SRR3405816.fastq
+Approx 60% complete for SRR3405816.fastq
+Approx 65% complete for SRR3405816.fastq
+Approx 70% complete for SRR3405816.fastq
+Approx 75% complete for SRR3405816.fastq
+Approx 80% complete for SRR3405816.fastq
+Approx 85% complete for SRR3405816.fastq
+Approx 90% complete for SRR3405816.fastq
+Approx 95% complete for SRR3405816.fastq
+Analysis complete for SRR3405816.fastq
+
+>> STAR
+Jul 30 13:46:55 ..... started STAR run
+Jul 30 13:46:55 ..... loading genome
+Jul 30 13:46:55 ..... processing annotations GTF
+Jul 30 13:46:55 ..... inserting junctions into the genome indices
+Jul 30 13:46:56 ..... started mapping
+Jul 30 13:48:39 ..... finished mapping
+Jul 30 13:48:39 ..... finished successfully
+
+--- SRR3405817.fastq ---
+>> FASTQC
+Started analysis of SRR3405817.fastq
+Approx 5% complete for SRR3405817.fastq
+Approx 10% complete for SRR3405817.fastq
+Approx 15% complete for SRR3405817.fastq
+Approx 20% complete for SRR3405817.fastq
+Approx 25% complete for SRR3405817.fastq
+Approx 30% complete for SRR3405817.fastq
+Approx 35% complete for SRR3405817.fastq
+Approx 40% complete for SRR3405817.fastq
+Approx 45% complete for SRR3405817.fastq
+Approx 50% complete for SRR3405817.fastq
+Approx 55% complete for SRR3405817.fastq
+Approx 60% complete for SRR3405817.fastq
+Approx 65% complete for SRR3405817.fastq
+Approx 70% complete for SRR3405817.fastq
+Approx 75% complete for SRR3405817.fastq
+Approx 80% complete for SRR3405817.fastq
+Approx 85% complete for SRR3405817.fastq
+Approx 90% complete for SRR3405817.fastq
+Approx 95% complete for SRR3405817.fastq
+Analysis complete for SRR3405817.fastq
+
+>> STAR
+Jul 30 13:50:11 ..... started STAR run
+Jul 30 13:50:11 ..... loading genome
+Jul 30 13:50:11 ..... processing annotations GTF
+Jul 30 13:50:12 ..... inserting junctions into the genome indices
+Jul 30 13:50:12 ..... started mapping
+Jul 30 13:51:49 ..... finished mapping
+Jul 30 13:51:49 ..... finished successfully
+
+--- SRR3405818.fastq ---
+>> FASTQC
+Started analysis of SRR3405818.fastq
+Approx 5% complete for SRR3405818.fastq
+Approx 10% complete for SRR3405818.fastq
+Approx 15% complete for SRR3405818.fastq
+Approx 20% complete for SRR3405818.fastq
+Approx 25% complete for SRR3405818.fastq
+Approx 30% complete for SRR3405818.fastq
+Approx 35% complete for SRR3405818.fastq
+Approx 40% complete for SRR3405818.fastq
+Approx 45% complete for SRR3405818.fastq
+Approx 50% complete for SRR3405818.fastq
+Approx 55% complete for SRR3405818.fastq
+Approx 60% complete for SRR3405818.fastq
+Approx 65% complete for SRR3405818.fastq
+Approx 70% complete for SRR3405818.fastq
+Approx 75% complete for SRR3405818.fastq
+Approx 80% complete for SRR3405818.fastq
+Approx 85% complete for SRR3405818.fastq
+Approx 90% complete for SRR3405818.fastq
+Approx 95% complete for SRR3405818.fastq
+Analysis complete for SRR3405818.fastq
+
+>> STAR
+Jul 30 13:53:16 ..... started STAR run
+Jul 30 13:53:16 ..... loading genome
+Jul 30 13:53:16 ..... processing annotations GTF
+Jul 30 13:53:17 ..... inserting junctions into the genome indices
+Jul 30 13:53:17 ..... started mapping
+Jul 30 13:54:56 ..... finished mapping
+Jul 30 13:54:56 ..... finished successfully

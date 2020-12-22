@@ -1,0 +1,294 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v2.0.1
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 36 BAM files                                     ||
+||                           o SRR3405783.fastqAligned.out.bam                ||
+||                           o SRR3405784.fastqAligned.out.bam                ||
+||                           o SRR3405785.fastqAligned.out.bam                ||
+||                           o SRR3405786.fastqAligned.out.bam                ||
+||                           o SRR3405787.fastqAligned.out.bam                ||
+||                           o SRR3405788.fastqAligned.out.bam                ||
+||                           o SRR3405789.fastqAligned.out.bam                ||
+||                           o SRR3405790.fastqAligned.out.bam                ||
+||                           o SRR3405791.fastqAligned.out.bam                ||
+||                           o SRR3405792.fastqAligned.out.bam                ||
+||                           o SRR3405793.fastqAligned.out.bam                ||
+||                           o SRR3405794.fastqAligned.out.bam                ||
+||                           o SRR3405795.fastqAligned.out.bam                ||
+||                           o SRR3405796.fastqAligned.out.bam                ||
+||                           o SRR3405797.fastqAligned.out.bam                ||
+||                           o SRR3405798.fastqAligned.out.bam                ||
+||                           o SRR3405799.fastqAligned.out.bam                ||
+||                           o SRR3405800.fastqAligned.out.bam                ||
+||                           o SRR3405801.fastqAligned.out.bam                ||
+||                           o SRR3405802.fastqAligned.out.bam                ||
+||                           o SRR3405803.fastqAligned.out.bam                ||
+||                           o SRR3405804.fastqAligned.out.bam                ||
+||                           o SRR3405805.fastqAligned.out.bam                ||
+||                           o SRR3405806.fastqAligned.out.bam                ||
+||                           o SRR3405807.fastqAligned.out.bam                ||
+||                           o SRR3405808.fastqAligned.out.bam                ||
+||                           o SRR3405809.fastqAligned.out.bam                ||
+||                           o SRR3405810.fastqAligned.out.bam                ||
+||                           o SRR3405811.fastqAligned.out.bam                ||
+||                           o SRR3405812.fastqAligned.out.bam                ||
+||                           o SRR3405813.fastqAligned.out.bam                ||
+||                           o SRR3405814.fastqAligned.out.bam                ||
+||                           o SRR3405815.fastqAligned.out.bam                ||
+||                           o SRR3405816.fastqAligned.out.bam                ||
+||                           o SRR3405817.fastqAligned.out.bam                ||
+||                           o SRR3405818.fastqAligned.out.bam                ||
+||                                                                            ||
+||             Output file : yeast_WT_counts.txt                              ||
+||                 Summary : yeast_WT_counts.txt.summary                      ||
+||              Annotation : genes.gtf (GTF)                                  ||
+||      Dir for temp files : counts                                           ||
+||                                                                            ||
+||                 Threads : 16                                               ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : counted                                          ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file genes.gtf ...                                         ||
+||    Features : 7553                                                         ||
+||    Meta-features : 7126                                                    ||
+||    Chromosomes/contigs : 17                                                ||
+||                                                                            ||
+|| Process BAM file SRR3405783.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 19382765                                             ||
+||    Successfully assigned alignments : 13828344 (71.3%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405784.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 22067074                                             ||
+||    Successfully assigned alignments : 15867454 (71.9%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405785.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 20137612                                             ||
+||    Successfully assigned alignments : 14918272 (74.1%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405786.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 18820127                                             ||
+||    Successfully assigned alignments : 13407685 (71.2%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405787.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 19001771                                             ||
+||    Successfully assigned alignments : 13306522 (70.0%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405788.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 21382942                                             ||
+||    Successfully assigned alignments : 14809249 (69.3%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405789.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 22932011                                             ||
+||    Successfully assigned alignments : 16222962 (70.7%)                     ||
+||    Running time : 0.12 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405790.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 20826260                                             ||
+||    Successfully assigned alignments : 13723948 (65.9%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405791.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 22306337                                             ||
+||    Successfully assigned alignments : 16642063 (74.6%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405792.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 21409095                                             ||
+||    Successfully assigned alignments : 15995376 (74.7%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405793.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 19377032                                             ||
+||    Successfully assigned alignments : 14256544 (73.6%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405794.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 21327768                                             ||
+||    Successfully assigned alignments : 15719352 (73.7%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405795.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 21151898                                             ||
+||    Successfully assigned alignments : 15230574 (72.0%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405796.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 19078438                                             ||
+||    Successfully assigned alignments : 13594545 (71.3%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405797.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 19335983                                             ||
+||    Successfully assigned alignments : 13685943 (70.8%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405798.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 13402949                                             ||
+||    Successfully assigned alignments : 9579258 (71.5%)                      ||
+||    Running time : 0.07 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405799.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 23884193                                             ||
+||    Successfully assigned alignments : 17583385 (73.6%)                     ||
+||    Running time : 0.12 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405800.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 22053447                                             ||
+||    Successfully assigned alignments : 16166479 (73.3%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405801.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 13513332                                             ||
+||    Successfully assigned alignments : 9826406 (72.7%)                      ||
+||    Running time : 0.07 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405802.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 16636545                                             ||
+||    Successfully assigned alignments : 12188244 (73.3%)                     ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405803.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 19505605                                             ||
+||    Successfully assigned alignments : 14165525 (72.6%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405804.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 16361534                                             ||
+||    Successfully assigned alignments : 11555716 (70.6%)                     ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405805.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 17233035                                             ||
+||    Successfully assigned alignments : 12701341 (73.7%)                     ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405806.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 22885287                                             ||
+||    Successfully assigned alignments : 16941847 (74.0%)                     ||
+||    Running time : 0.12 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405807.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 16608910                                             ||
+||    Successfully assigned alignments : 12205508 (73.5%)                     ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405808.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 16318815                                             ||
+||    Successfully assigned alignments : 12002470 (73.5%)                     ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405809.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 17341570                                             ||
+||    Successfully assigned alignments : 12738477 (73.5%)                     ||
+||    Running time : 0.09 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405810.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 22895513                                             ||
+||    Successfully assigned alignments : 16655802 (72.7%)                     ||
+||    Running time : 0.12 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405811.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 24738912                                             ||
+||    Successfully assigned alignments : 17998980 (72.8%)                     ||
+||    Running time : 0.13 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405812.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 18786708                                             ||
+||    Successfully assigned alignments : 13447240 (71.6%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405813.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 21885835                                             ||
+||    Successfully assigned alignments : 16152568 (73.8%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405814.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 21453854                                             ||
+||    Successfully assigned alignments : 15540214 (72.4%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405815.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 20104427                                             ||
+||    Successfully assigned alignments : 14800334 (73.6%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405816.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 20628822                                             ||
+||    Successfully assigned alignments : 15234687 (73.9%)                     ||
+||    Running time : 0.11 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405817.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 19396817                                             ||
+||    Successfully assigned alignments : 14367857 (74.1%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Process BAM file SRR3405818.fastqAligned.out.bam...                        ||
+||    Single-end reads are included.                                          ||
+||    Total alignments : 18412634                                             ||
+||    Successfully assigned alignments : 13187963 (71.6%)                     ||
+||    Running time : 0.10 minutes                                             ||
+||                                                                            ||
+|| Write the final count table.                                               ||
+|| Write the read assignment summary.                                         ||
+||                                                                            ||
+|| Summary of counting results can be found in file "counts/yeast_WT_counts.  ||
+|| txt.summary"                                                               ||
+||                                                                            ||
+\\============================================================================//
+

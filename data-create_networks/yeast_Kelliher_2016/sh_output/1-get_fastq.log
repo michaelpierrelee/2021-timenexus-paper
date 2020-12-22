@@ -1,0 +1,235 @@
+--- SRR3405783 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,750,348
+reads read      : 17,750,348
+reads written   : 17,750,348
+--- SRR3405784 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 20,195,297
+reads read      : 20,195,297
+reads written   : 20,195,297
+--- SRR3405785 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 18,523,100
+reads read      : 18,523,100
+reads written   : 18,523,100
+--- SRR3405786 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,110,648
+reads read      : 17,110,648
+reads written   : 17,110,648
+--- SRR3405787 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,193,043
+reads read      : 17,193,043
+reads written   : 17,193,043
+--- SRR3405788 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 19,058,982
+reads read      : 19,058,982
+reads written   : 19,058,982
+--- SRR3405789 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 20,634,690
+reads read      : 20,634,690
+reads written   : 20,634,690
+--- SRR3405790 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 18,200,739
+reads read      : 18,200,739
+reads written   : 18,200,739
+--- SRR3405791 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 20,673,479
+reads read      : 20,673,479
+reads written   : 20,673,479
+--- SRR3405792 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 19,813,752
+reads read      : 19,813,752
+reads written   : 19,813,752
+--- SRR3405793 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,822,078
+reads read      : 17,822,078
+reads written   : 17,822,078
+--- SRR3405794 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 19,610,461
+reads read      : 19,610,461
+reads written   : 19,610,461
+--- SRR3405795 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 19,299,760
+reads read      : 19,299,760
+reads written   : 19,299,760
+--- SRR3405796 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,395,676
+reads read      : 17,395,676
+reads written   : 17,395,676
+--- SRR3405797 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,541,182
+reads read      : 17,541,182
+reads written   : 17,541,182
+--- SRR3405798 ---
+join   :|  0.63%2020-07-29T14:18:38 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #3122305 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+----------------------------------- 69.52%2020-07-29T14:30:49 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #8454145 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+70.57%2020-07-29T14:32:13 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #5603329 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:32:13 fasterq-dump.2.10.8 err: row #5603329 : READ.len(51) != QUALITY.len(0) (A) 
+70.84%2020-07-29T14:32:39 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #1212417 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:32:39 fasterq-dump.2.10.8 err: row #1212417 : READ.len(51) != QUALITY.len(0) (A) 
+----- 80.19%
+fasterq-dump quit with error code 3
+--- SRR3405799 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 22,021,927
+reads read      : 22,021,927
+reads written   : 22,021,927
+--- SRR3405800 ---
+2020-07-29T14:44:23 fasterq-dump.2.10.8 err: connection busy while creating file within network system module - error with https open 'https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-run-7/SRR3405800/SRR3405800.1'
+2020-07-29T14:44:23 fasterq-dump.2.10.8 err: invalid accession 'SRR3405800'
+--- SRR3405801 ---
+join   :|  0.70%2020-07-29T14:46:34 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #1563988 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+-  1.32%2020-07-29T14:47:22 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #3127975 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:47:31 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #10977281 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:47:31 fasterq-dump.2.10.8 err: row #10977281 : READ.len(51) != QUALITY.len(0) (A) 
+ 1.92%2020-07-29T14:48:17 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #9383923 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:48:17 fasterq-dump.2.10.8 err: row #9383923 : READ.len(51) != QUALITY.len(0) (A) 
+ 2.65%2020-07-29T14:48:47 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #7831553 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:49:33 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #131073 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+ 2.91%2020-07-29T14:49:57 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #9383924 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:49:57 fasterq-dump.2.10.8 err: row #9383924 : READ.len(51) != QUALITY.len(0) (A) 
+-  3.60%2020-07-29T14:50:52 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #11010049 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:50:52 fasterq-dump.2.10.8 err: row #11010049 : READ.len(51) != QUALITY.len(0) (A) 
+2020-07-29T14:52:25 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #4784129 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:52:27 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #6389761 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:52:32 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #11010050 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:52:32 fasterq-dump.2.10.8 err: row #11010050 : READ.len(51) != QUALITY.len(0) (A) 
+2020-07-29T14:52:36 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #9404417 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T14:52:36 fasterq-dump.2.10.8 err: row #9404417 : READ.len(51) != QUALITY.len(0) (A) 
+------------ 27.94%
+fasterq-dump quit with error code 3
+--- SRR3405802 ---
+join   :|---  6.31%2020-07-29T15:01:16 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #11567105 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:01:45 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #7798785 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:01:45 fasterq-dump.2.10.8 err: row #7798785 : READ.len(51) != QUALITY.len(0) (A) 
+2020-07-29T15:02:00 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #5898241 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:02:30 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #131073 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:02:30 fasterq-dump.2.10.8 err: row #131073 : READ.len(51) != QUALITY.len(0) (A) 
+2020-07-29T15:02:34 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #2031617 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:02:41 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #9764865 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:02:42 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #13631489 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:02:42 fasterq-dump.2.10.8 err: row #13631489 : READ.len(51) != QUALITY.len(0) (A) 
+2020-07-29T15:02:42 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #4096001 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:02:42 fasterq-dump.2.10.8 err: row #4096001 : READ.len(51) != QUALITY.len(0) (A) 
+ 6.74%2020-07-29T15:03:25 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_uint8_array( #7798786 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+2020-07-29T15:03:25 fasterq-dump.2.10.8 err: row #7798786 : READ.len(51) != QUALITY.len(0) (A) 
+----------------------- 52.35%
+fasterq-dump quit with error code 3
+--- SRR3405803 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,918,125
+reads read      : 17,918,125
+reads written   : 17,918,125
+--- SRR3405804 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 14,987,456
+reads read      : 14,987,456
+reads written   : 14,987,456
+--- SRR3405805 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 15,996,453
+reads read      : 15,996,453
+reads written   : 15,996,453
+--- SRR3405806 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 21,144,440
+reads read      : 21,144,440
+reads written   : 21,144,440
+--- SRR3405807 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 15,401,301
+reads read      : 15,401,301
+reads written   : 15,401,301
+--- SRR3405808 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 15,085,051
+reads read      : 15,085,051
+reads written   : 15,085,051
+--- SRR3405809 ---
+join   :|  0.55%2020-07-29T15:54:12 fasterq-dump.2.10.8 err: cmn_iter.c cmn_read_String( #10067886 ).VCursorCellDataDirect() -> RC(rcPS,rcCondition,rcWaiting,rcTimeout,rcExhausted) 
+-------------------------------------------- 87.49%
+fasterq-dump quit with error code 3
+--- SRR3405810 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 21,074,717
+reads read      : 21,074,717
+reads written   : 21,074,717
+--- SRR3405811 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 22,616,996
+reads read      : 22,616,996
+reads written   : 22,616,996
+--- SRR3405812 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,285,594
+reads read      : 17,285,594
+reads written   : 17,285,594
+--- SRR3405813 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 20,215,426
+reads read      : 20,215,426
+reads written   : 20,215,426
+--- SRR3405814 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 19,628,514
+reads read      : 19,628,514
+reads written   : 19,628,514
+--- SRR3405815 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 18,528,469
+reads read      : 18,528,469
+reads written   : 18,528,469
+--- SRR3405816 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 19,025,177
+reads read      : 19,025,177
+reads written   : 19,025,177
+--- SRR3405817 ---
+join   :|-------------------------------------------------- 100%   
+concat :|-------------------------------------------------- 100%   
+spots read      : 17,924,964
+reads read      : 17,924,964
+reads written   : 17,924,964
+
