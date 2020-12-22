@@ -174,13 +174,6 @@ Jupyter Notebooks:
    6. Inter-layer edge's weights were computed using `( wDys1 + wDys2 ) / ( 1 + wDys1 + wDys2 )`, where wDys1 and wDys2 are the weights of the node in the layer i and i+1, respectively.
    7. Tables for the multi-layer network: `data-create_networks/yeast_multiLayerNetwork/`.
 
-We also generated a multilayer network limited to the KEGG yeast cell-cycle genes: `scripts-create_networks/3-prepare_interactome/6-noRep-KEGG_MLN_tables.PY.ipynb`.
-
-1. The “KEGG multilayer network” was built from the yeast multilayer network.
-2. We removed the nodes and the edges between nodes which were not the core cell-cycle genes.
-3. We built a "isQuery" column to visualize the query node-layers. This column had to be manually added to the flattened network on Cytoscape after converting the tables to a multilayer network with TimeNexus.
-4. We exported the tables into `data-create_networks/yeast_multiLayerNetwork/KEGG-cell-cycle/`.
-
 A column with the gene names can be added to the node table of the flattened network by using the file `data-create_networks/cell_cycle_genes/convertKeggGeneNamesOfFlattenedNetwork.txt`, or to the aggregated network with the file `data-create_networks/cell_cycle_genes/20AUG2020_KEGG_sce04111_genes.txt`.
 
 ### Generate the mouse multilayer-network tables for TimeNexus
@@ -190,24 +183,6 @@ A column with the gene names can be added to the node table of the flattened net
 2. `scripts-create_networks/3-prepare_interactome/mouse/2-mouse_multi-layer_network_tables.PY.ipynb`: prepare tables of the multi-layer network from the PPIs.
    1. The process was the same as above, but for the 3 layers (day 1 vs. 0, 3 vs. 0 and 30 vs. 0) and there was no PDI to aggregate.
    2. Tables for the multi-layer network: `data-create_networks/mouse_multiLayerNetwork/`.
-
-### Prepare yeast network files for TimeXNet
-
-We mostly followed the method from Patil et al. (2013 and 2014) to generate the network files for TimeXNet. The difference came from the gene score which was here the node weight as described above, instead of the log-fold change alone as described by Patil 2013.
-
-The notebook `scripts-create_networks/3-prepare_interactome/4-noRep-timeXnet_network.PY.ipynb` performed these steps:
-
-1. The interactome was the same as for the multi-layer network and set as undirected.
-   * `data-create_networks/yeast_multiLayerNetwork/timeXnet/interactome_noRep.tsv`.
-2. We defined 3 groups of genes:
-   * initial response genes = layers 1+2+3+4 (from 25 to 40 min):
-     * `data-create_networks/yeast_multiLayerNetwork/timeXnet/source_genes_noRep.tsv`;
-   * intermediate regulators = layers 5+6+7+8+9+10+11+12 (from 45 to 80 min):
-     * `data-create_networks/yeast_multiLayerNetwork/timeXnet/inter_genes_noRep.tsv`;
-   * late effectors = layers 13+14+15+16 (from 85 to 100 min):
-     * `data-create_networks/yeast_multiLayerNetwork/timeXnet/late_genes_noRep.tsv`.
-3. To split the the query nodes between the 3 groups, we searched for the layer where the gene weight was the highest and then, we assigned the gene to the group of this layer.
-4. The gene weight corresponded to this highest weight.
 
 ### Generate networks to test the robustness of TimeNexus
 
@@ -222,11 +197,7 @@ We generated 3 types of multilayer networks from the yeast multilayer network:
 * **`Random` intra-layer edge weights**: a random weight following the uniform distribution [0.01,1) was set to each intra-layer edge.
   * `randomEdgeWeights_intraLayerEdgeTable_noRep.tsv`
 
-## Generate results
-
-### Extract subnetworks
-
-#### Using TimeNexus
+## Extract subnetworks
 
 * **For the yeast dataset**
 
