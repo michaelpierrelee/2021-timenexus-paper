@@ -8,9 +8,11 @@ Michaël Pierrelée, Aix Marseille Univ, CNRS, IBDM, UMR7288, FRANCE - <michael.
 
 ---
 
-This file describes the steps to reproduce the data analysis.
+This file describes the steps to reproduce the data analysis of the paper.
 
-More information can be found at the beginning of each notebook, where the header describes precisely the workflow.
+We presented two datasets: the **yeast dataset** (re-analysis of a RNA-seq dataset about the cell-cycle) and the **mouse dataset** (original analysis of a RNA-seq dataset about mouse inflammation). In this document, they are referred to one or the other by simply “yeast“ or “mouse“. Each was processed by independent pipelines.
+
+More information can be found at the beginning of each notebook, where the header describes precisely the steps of the workflow.
 
 ## Setup working environment
 
@@ -199,7 +201,7 @@ We generated 3 types of multilayer networks from the yeast multilayer network:
 
 ## Extract subnetworks
 
-* **For the yeast dataset**
+### For the yeast dataset
 
 The subnetworks were extracted by **TimeNexus** on **Cytoscape** (v3.8.0), with either the **PathLinker** app (v1.4.2) or the Anat server.
 
@@ -228,7 +230,7 @@ We followed this protocol to generate subnetworks for the yeast multilayer netwo
       2. **For Global:** Layer 1 = Query 1 and Layer 16 = Query 16. The other layers do not matter.
    6. Click on “Extract subnetworks” and wait until completion or an error of the app. If the extraction is successful, it generates a new multilayer network called “Extracted network”.
 5. To export a multilayer network: *right-click on its flattened network > Export as network > Export File Format = GraphML.*
-   * The extracted flattened networks were experted at `data-analyze_results/pathlinker_yeast/` for PathLinker,
+   * The extracted flattened networks were exported at `data-analyze_results/pathlinker_yeast/` for PathLinker,
    * and `data-analyze_results/anat_yeast/` for Anat.
 6. To load back a multilayer network: *Toolbar > Import network From File > Select a flattened network which was exported*. Then, use the tool *Menu > Apps > TimeNexus > Build MLN from flattened network*.
 7. Make a view of the multilayer network with TimeNexus: *Left-side bar > TimeNexus Viewer*.
@@ -236,8 +238,8 @@ We followed this protocol to generate subnetworks for the yeast multilayer netwo
    2. If one wants to show the layers 3 to 6 for example: **select the layer to focus = 3, number of adjacent layers = 3**, show adjacent layers = forward (default).
    3. Update the view.
 
-For more details, see the documentation.
+For more details, see the [documentation](https://gitlab.com/habermann_lab/timenexus-cytoscape-app/-/blob/master/documentation/doc.md).
 
-* **For the mouse dataset**
+### For the mouse dataset
 
-The same principle was applied to the mouse dataset.
+The same principle was applied to the mouse dataset, with only **PathLinker** K=50 and 3 layers (instead of 16).
